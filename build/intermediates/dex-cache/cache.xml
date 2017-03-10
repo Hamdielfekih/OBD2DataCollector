@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kimauk/github/OBD2DataCollector/app/libs/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b8420e57139cc627a55be0c17b6687e92d7460f">
+        <dex dex="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.android.service-1.0.2_c46c169c6a232f32ea4a83b29c044f1a32121c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimauk/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0.1/4c3f3e51174a0260a2c5e78da49fac4710803aa5/commons-lang3-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c3f3e51174a0260a2c5e78da49fac4710803aa5">
+        <dex dex="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.0.1_1a623dffa36b44e1c6729b62c788d65f97d70f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimauk/github/OBD2DataCollector/app/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02e433eb0fda11fe7170cf8214ba2f4d165c29b6">
+        <dex dex="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3-1.0.2_7545b3a6ff6396fcc339c67f0f743b7a8f78e6da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a77b95ee6e1cdaf05a34f08fcb49417cce6b48dc">
+        <dex dex="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f4969bcaadcef6b3cc30c34ac7ff8670a7b645d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/kimauk/github/OBD2DataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9af65d24b1e5009babc88fdf7895611a9b6053b6/classes.dex" />
+    </item>
+
+</items>
